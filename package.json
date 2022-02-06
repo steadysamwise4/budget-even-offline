@@ -1,7 +1,7 @@
 {
-    "name": "budget-app",
+    "name": "budget-even-offline",
     "version": "1.0.0",
-    "description": "",
+    "description": "Boot camp challenge to enhance a budget app, so that if functions offline and as a PWA. Served by MongoDB and uploaded to Heroku.",
     "main": "server.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,8 +12,8 @@
       "type": "git",
       "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "Sam Davenport",
+    "license": "MIT",
     "bugs": {
       "url": "https://github.com/coding-boot-camp/unit18hw/issues"
     },
